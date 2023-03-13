@@ -225,3 +225,11 @@ background-color: #196499;
 {
 	background-color: #d95333;
 }
+.info
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 20px;
+
+}
